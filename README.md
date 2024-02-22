@@ -1,0 +1,3 @@
+The Fole Residence Management System represents a cutting-edge web application crafted to optimize the administrative tasks associated with overseeing student accommodations. Tailored exclusively for administrators handling the rental logistics of studios and bedrooms at Fole Residence, this system offers an efficient solution.
+
+The front-end of the system has been developed utilizing a combination of HTML, CSS, and JavaScript. Through this intricate blend of technologies, the interface boasts responsiveness and user-friendliness, ensuring a smooth and intuitive experience for all users. Notably, this initial phase of the project harnesses the power of local storage, laying a robust foundation for future enhancements and expansions.
